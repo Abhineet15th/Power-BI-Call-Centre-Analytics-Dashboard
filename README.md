@@ -1,40 +1,66 @@
-# Power-BI-Call-Centre-Analytics-Dashboard
-Developed an interactive Power BI dashboard to analyze call centre performance, tracking key metrics such as call volume, response time, abandonment rate, customer satisfaction, and agent efficiency to provide actionable insights for management.
+# PwC-Switzerland-Power-BI-Job-Simulation
 
-## **Project Overview**  
-In this project, I developed an **interactive Power BI dashboard** to analyze call centre performance for a telecom company. The goal was to provide **insights into key metrics** like call handling efficiency, agent performance, and customer satisfaction to enhance decision-making.  
+An advanced Power BI project analyzing key business areas for a telecom client, including Call Center Performance, Customer Retention, and Diversity & Inclusion. This project provides data-driven insights and interactive dashboards to help management make informed decisions.
 
-## **Objective**  
-The Call Centre Manager needed a **comprehensive report** to track call trends, agent productivity, and resolution rates. My key tasks included:  
-- **Data Cleaning & Transformation** to ensure accuracy.  
-- **DAX Measures** to track key call centre KPIs.  
-- **Interactive Visualizations** for in-depth trend analysis.  
+📌 Overview
+This project is part of the PwC Switzerland Power BI Job Simulation on Forage, where I developed three Power BI dashboards addressing critical business challenges:
 
-## **Approach**  
+1️⃣ Call Center Trends – Analyzing call performance and agent efficiency
+2️⃣ Customer Retention – Identifying at-risk customers to reduce churn
+3️⃣ Diversity & Inclusion – Assessing gender balance and promotion trends
 
-### 1. **Data Cleaning & Transformation**  
-✔ Removed duplicates and handled missing values.  
-✔ Standardized data formats for consistency.  
+By leveraging Power BI’s data visualization capabilities, this project delivers impactful insights for business decision-making.
 
-### 2. **Analysis with DAX Measures**  
-I created key **DAX measures** to analyze:  
-📞 **Answered Calls** – Total calls successfully handled.  
-📊 **Calls Handled per Agent** – Measuring individual performance.  
-✅ **Resolved Calls** – Tracking successful resolutions.  
+📊 Tasks & Analysis
+📞 Task 1: Call Center Trends Dashboard
+Claire, a telecom manager, needed a performance dashboard to track call center efficiency. I designed an interactive Power BI dashboard with key call center metrics:
 
-### 3. **Data Visualization & Dashboard Design**  
-I used **Power BI’s advanced visuals** to create an interactive dashboard featuring:  
-📊 **Gauge, Stacked Column & Donut Charts** – For call trend analysis.  
-📅 **Slicers for Agent, Resolution, and Date** – Enabling dynamic filtering.  
-📌 **Agent Stats Report (Table Measure)** – Comprehensive agent performance insights.  
+✔ Overall customer satisfaction score: 3.4/5 ⭐
+✔ Total calls answered vs. abandoned 📈
+✔ Call volume by time of day ⏳
+✔ Average speed of answer (ASA): 67.52 sec ⌛
+✔ Agent performance quadrant – comparing talk duration vs. calls answered 🎯
 
-## **Key Learnings**  
-✅ **Advanced Data Cleaning & DAX** – Ensuring accurate analysis.  
-✅ **KPI-Driven Visualizations** – Enhancing decision-making.  
-✅ **Storytelling with Data** – Presenting meaningful insights.  
-✅ **Interactive Dashboarding** – Driving actionable business insights.  
+📌 Outcome: The dashboard helped Claire monitor agent productivity, customer wait times, and satisfaction trends to optimize call center operations.
 
-## **Conclusion**  
-This project highlights my expertise in **Power BI, data analysis, and visualization**, transforming raw call centre data into meaningful insights. The dashboard helps **identify trends, optimize performance, and improve customer service.**  
+📢 Task 2: Customer Retention Dashboard
+A few weeks later, the Retention Manager contacted me to develop a dashboard for customer retention analysis. Their key concerns were:
 
-📌 *Explore the insights and feel free to connect!* 🚀
+✔ Churn rate: 26.54% out of 7,043 customers 📉
+✔ Customer segmentation based on retention likelihood 🔍
+✔ Predicting customers at risk of leaving 🚨
+✔ Tracking win-back success rates 🔄
+
+📌 Outcome: By using charts and DAX functions, this dashboard enabled the Retention Team to proactively identify at-risk customers and improve retention strategies through data-driven decision-making.
+
+👥 Task 3: Diversity & Inclusion Dashboard
+The HR department wanted to assess gender balance and promotions in leadership roles. I built a Power BI dashboard featuring:
+
+✔ 500 employees analyzed based on gender balance 👨‍💼👩‍💼
+✔ Number of male vs. female employees 📊
+✔ Promotion rates for men vs. women (FY21) 📈
+✔ Hiring gender distribution 📋
+✔ Employee turnover rates 🔄
+✔ Performance ratings by gender ⭐
+
+📌 Outcome: The dashboard provided clear insights into workforce diversity, helping HR improve gender balance strategies at the executive level and harmonize the workforce based on gender representation.
+
+📊 Power BI Dashboard Features
+✅ Call Center Performance Dashboard – Tracks call volume, agent efficiency, and customer satisfaction
+✅ Customer Retention Dashboard – Identifies at-risk customers and churn trends
+✅ Diversity & Inclusion Dashboard – Visualizes gender balance, promotions, and employee turnover
+
+Each dashboard includes interactive visuals, KPIs, and drill-down insights for better decision-making.
+
+🚀 Technology Used
+🔹 Power BI – Data visualization & interactive dashboards
+
+📂 Repository Structure
+📜 README.md – Full project documentation, insights, and methodology
+📁 Power BI Reports – .pbix file containing all dashboards
+📜 Visualizations.pdf – Screenshots of Power BI dashboards
+
+⭐ Why This Project?
+This project demonstrates my ability to analyze real-world business problems using Power BI. By combining data visualization with actionable insights, these dashboards support telecom management in improving efficiency, customer retention, and workforce diversity.
+
+🚀 Feel free to explore, contribute, and suggest improvements! 🚀
