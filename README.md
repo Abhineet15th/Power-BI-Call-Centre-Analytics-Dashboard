@@ -89,7 +89,6 @@ Each dashboard includes **interactive visuals, KPIs, and drill-down insights** f
   - 📜 `Diversity & Inclusion.pbix` – Power BI dashboard visualizing gender balance, promotions, and workforce composition.  
 
 📜 **Visualizations.pdf** – Contains images of all Power BI dashboards from Task 1, Task 2, and Task 3.
-[📜 Visualizations.pdf](PwC-Virtual-Internship-from-Forage/Visualizations.pdf)
 
 
 
