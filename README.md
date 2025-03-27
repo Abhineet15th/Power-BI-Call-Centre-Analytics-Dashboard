@@ -17,7 +17,7 @@ By leveraging **Power BI’s data visualization capabilities**, this project del
 
 ## **📊 Tasks & Analysis**  
 
-### **📞 [📂 Task 1 - Call Centre Trends](Task%201%20-%20Call%20Centre%20Trends/)
+### 📞 [Task 1 - Call Centre Trends](Task%201%20-%20Call%20Centre%20Trends/)
   
 Claire, a telecom manager, needed a **performance dashboard** to track call center efficiency. I designed an interactive **Power BI dashboard** with key call center metrics:  
 
@@ -31,7 +31,8 @@ Claire, a telecom manager, needed a **performance dashboard** to track call cent
 
 ---
 
-### **📢 Task 2: Customer Retention Dashboard**  
+### 📢 [Task 2 - Customer Retention](Task%202%20-%20Customer%20Retention/)
+  
 A few weeks later, the **Retention Manager** contacted me to develop a **dashboard for customer retention analysis**. Their key concerns were:  
 
 ✔ **Churn rate: 26.54% out of 7,043 customers** 📉  
@@ -43,7 +44,8 @@ A few weeks later, the **Retention Manager** contacted me to develop a **dashboa
 
 ---
 
-### **👥 Task 3: Diversity & Inclusion Dashboard**  
+### 👥 [Task 3 - Diversity & Inclusion](Task%203%20-%20Diversity%20&%20Inclusion/)
+ 
 The **HR department** wanted to assess **gender balance and promotions** in leadership roles. I built a **Power BI dashboard** featuring:  
 
 ✔ **500 employees analyzed based on gender balance** 👨‍💼👩‍💼  
