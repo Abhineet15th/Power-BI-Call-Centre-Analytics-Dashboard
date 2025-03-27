@@ -77,7 +77,8 @@ Each dashboard includes **interactive visuals, KPIs, and drill-down insights** f
 
 ### **📂 Repository Structure**  
 
-📜 **README.md** – Contains full project documentation, objectives, and insights.  
+📜 [README.md](README.md)
+ – Contains full project documentation, objectives, and insights.  
 
 📂 **Task 1 - Call Centre Trends Analysis**  
   - 📜 `Call_Center_Dataset.xlsx` – Raw dataset for call center performance.  
