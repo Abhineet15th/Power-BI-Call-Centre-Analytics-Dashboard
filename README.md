@@ -72,6 +72,24 @@ Each dashboard includes **interactive visuals, KPIs, and drill-down insights** f
 
 ---
 
+### **📂 Repository Structure**  
+
+📜 **README.md** – Contains full project documentation, objectives, and insights.  
+
+📂 **Task 1 - Call Centre Trends Analysis**  
+  - 📜 `Call_Center_Dataset.xlsx` – Raw dataset for call center performance.  
+  - 📜 `Call Centre Trends.pbix` – Power BI dashboard analyzing call trends, agent performance, and customer satisfaction.  
+
+📂 **Task 2 - Customer Retention Analysis**  
+  - 📜 `Churn-Dataset.xlsx` – Raw dataset for churn analysis.  
+  - 📜 `Customer Churn and Risk Analysis.pbix` – Power BI dashboard showing churn rate, customer segmentation, and retention insights.  
+
+📂 **Task 3 - Diversity & Inclusion Analysis**  
+  - 📜 `Diversity_Inclusion_Dataset.xlsx` – Raw dataset for workforce diversity.  
+  - 📜 `Diversity & Inclusion.pbix` – Power BI dashboard visualizing gender balance, promotions, and workforce composition.  
+
+📜 **Visualizations.pdf** – Contains images of all Power BI dashboards from Task 1, Task 2, and Task 3.
+
 
 ⭐ **Why This Project?**  
 This project demonstrates my ability to **analyze real-world business problems using Power BI**. By combining data visualization with actionable insights, these dashboards support telecom management in **improving efficiency, customer retention, and workforce diversity**.  
