@@ -96,3 +96,6 @@ Each dashboard includes **interactive visuals, KPIs, and drill-down insights** f
 This project demonstrates my ability to **analyze real-world business problems using Power BI**. By combining data visualization with actionable insights, these dashboards support telecom management in **improving efficiency, customer retention, and workforce diversity**.  
 
 🚀 **Feel free to explore, contribute, and suggest improvements!** 🚀
+
+[📜 Visualizations.pdf](Visualizations.pdf)
+
