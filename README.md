@@ -17,7 +17,8 @@ By leveraging **Power BI’s data visualization capabilities**, this project del
 
 ## **📊 Tasks & Analysis**  
 
-### **📞 Task 1: Call Center Trends Dashboard**  
+### **📞 [📂 Task 1 - Call Centre Trends](Task%201%20-%20Call%20Centre%20Trends/)
+  
 Claire, a telecom manager, needed a **performance dashboard** to track call center efficiency. I designed an interactive **Power BI dashboard** with key call center metrics:  
 
 ✔ **Overall customer satisfaction score: 3.4/5** ⭐  
@@ -96,5 +97,4 @@ Each dashboard includes **interactive visuals, KPIs, and drill-down insights** f
 This project demonstrates my ability to **analyze real-world business problems using Power BI**. By combining data visualization with actionable insights, these dashboards support telecom management in **improving efficiency, customer retention, and workforce diversity**.  
 
 🚀 **Feel free to explore, contribute, and suggest improvements!** 🚀
-[📂 Task 1 - Call Centre Trends](Task%201%20-%20Call%20Centre%20Trends/)
 
