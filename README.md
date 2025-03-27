@@ -72,13 +72,6 @@ Each dashboard includes **interactive visuals, KPIs, and drill-down insights** f
 
 ---
 
-## 📂 **Repository Structure**  
-
-📜 **README.md** – Full project documentation, insights, and methodology  
-📁 **Power BI Reports** – .pbix file containing all dashboards  
-📜 **Visualizations.pdf** – Screenshots of Power BI dashboards  
-
----
 
 ⭐ **Why This Project?**  
 This project demonstrates my ability to **analyze real-world business problems using Power BI**. By combining data visualization with actionable insights, these dashboards support telecom management in **improving efficiency, customer retention, and workforce diversity**.  
