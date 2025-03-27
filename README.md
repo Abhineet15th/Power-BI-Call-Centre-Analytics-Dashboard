@@ -88,7 +88,7 @@ Each dashboard includes **interactive visuals, KPIs, and drill-down insights** f
   - 📜 `Diversity_Inclusion_Dataset.xlsx` – Raw dataset for workforce diversity.  
   - 📜 `Diversity & Inclusion.pbix` – Power BI dashboard visualizing gender balance, promotions, and workforce composition.  
 
-📜 **Visualizations.pdf** – Contains images of all Power BI dashboards from Task 1, Task 2, and Task 3.
+📜 [📜 Visualizations.pdf](Visualizations.pdf) – Contains images of all Power BI dashboards from Task 1, Task 2, and Task 3.
 
 
 
@@ -96,6 +96,4 @@ Each dashboard includes **interactive visuals, KPIs, and drill-down insights** f
 This project demonstrates my ability to **analyze real-world business problems using Power BI**. By combining data visualization with actionable insights, these dashboards support telecom management in **improving efficiency, customer retention, and workforce diversity**.  
 
 🚀 **Feel free to explore, contribute, and suggest improvements!** 🚀
-
-[📜 Visualizations.pdf](Visualizations.pdf)
 
